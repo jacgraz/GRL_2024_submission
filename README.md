@@ -12,4 +12,4 @@ The results that instead make use of field-collected data, can be replicated wit
 This last script is used to reproduce e.g., Fig. 3, 4 and 5. 
 
 ### Special requirements
-Apart from standard packages, the *[aggregation](https://github.com/jleinonen/aggregation)* library must be installed
+Apart from standard packages, the *[aggregation](https://github.com/jleinonen/aggregation)* library must be installed as well as the *[MASCdb package](https://github.com/ltelab/pymascdb/)*
