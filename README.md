@@ -9,6 +9,7 @@ In particular, the script:
 - *aggproj-simulations.py* can be used to replicate the simulated aggregates simulations (e.g., right panels of Fig.2 in the submitted manuscript)
 
 The results that instead make use of field-collected data, can be replicated with *[a script included in the MASCdb package](https://github.com/ltelab/pymascdb/blob/master/tutorial/07_orientation.py)*
+This last script is used to reproduce e.g., Fig. 3, 4 and 5. 
 
 ### Special requirements
 Apart from standard packages, the *[aggregation](https://github.com/jleinonen/aggregation)* library must be installed
